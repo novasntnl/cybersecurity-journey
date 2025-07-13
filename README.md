@@ -21,7 +21,11 @@ I’m currently working through these certifications and courses:  
 
 - [AWS Security Fundamentals](https://www.coursera.org/learn/aws-security-fundamentals)  
 
-- CISSP exam preparation (in progress)
+- Fortinet NSE 1-4 (in progress)
+
+- CompTIA Security+ (in progress)
+
+- TryHackMe Certificates (in progress)
 
 ---
 
@@ -101,15 +105,15 @@ To proactively secure my home network, personal devices, and digital identity us
 ## 🧠 Policy Awareness
 
 - [x] Aware of lateral movement risks from unsafe browsing
-- [x] Educated household member (partner) on secure practices
-- [x] Explored guest network isolation (not possible on Telenet)
+- [x] Educated household members on secure practices
+- [x] Explored guest network isolation
 - [x] Planning to add second router for guest VLAN
 
 ---
 
 ## 🧭 Next Steps
 
-- [ ] Publish results as a visual post on LinkedIn
+- [ ] Publish results as a visual post on LinkedIn and Youtube
 - [ ] Continue training on TryHackMe Blue Team path
 - [ ] Build public portfolio on GitHub 
 - [ ] Prep for Fortinet NSE and Google Cybersecurity certs
