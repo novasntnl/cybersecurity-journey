@@ -1,0 +1,83 @@
+## 🎓 Certifications in Progress
+
+| Certification | Provider | Progress | ETA |
+
+|---------------|----------|----------|--------|
+
+| Google Cybersecurity | Coursera | 50% | January 2026 |
+
+| IBM Cybersecurity Analyst | Coursera | 10% | January 2026 |
+
+| CompTIA Security+ SY0-701 | CompTIA | 5% | January 2026 |
+
+
+
+```chartjs
+
+{
+
+  "type": "bar",
+
+  "data": {
+
+    "labels": ["Google Cybersecurity", "IBM Cybersecurity", "CompTIA Security+"],
+
+    "datasets": [{
+
+      "label": "Progress (%)",
+
+      "data": [50, 10, 5],
+
+      "backgroundColor": ["#4285F4", "#052FAD", "#004B55"],
+
+      "borderColor": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+
+      "borderWidth": 1
+
+    }]
+
+  },
+
+  "options": {
+
+    "scales": {
+
+      "y": {
+
+        "beginAtZero": true,
+
+        "max": 100,
+
+        "title": {
+
+          "display": true,
+
+          "text": "Completion (%)"
+
+        }
+
+      }
+
+    },
+
+    "plugins": {
+
+      "legend": {
+
+        "display": false
+
+      },
+
+      "title": {
+
+        "display": true,
+
+        "text": "Certification Progress"
+
+      }
+
+    }
+
+  }
+
+}
