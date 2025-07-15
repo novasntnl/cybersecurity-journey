@@ -1,31 +1,20 @@
-# cybersecurity-journey
-# Nova Sentinel's Cybersecurity Journey
+# Nova Sentinel | Cybersecurity 
 
-👋 Hi! I’m Nova Sentinel, a cybersecurity professional documenting my path to mastering top cybersecurity skills and certifications.
+**Blue Team Focused | Privacy Enthusiast | Documenting My Journey**
+
+## 📜 About Me
+- **Alias**: Nova Sentinel
+- **Location**: Undisclosed (remote-friendly)
+- **Background**: IT professional passionate about cyber defense, privacy, and hands-on learning
+- **Interests**: Home network security, malware analysis, threat detection, analyzing and solving complex problems
 
 ---
 
-## 🎯 My Goal  
-
-To build a strong foundation in cybersecurity with a Blue Team focus, while gaining hands-on experience and industry-recognized certifications.
-
----
-
-## 🚀 Current Learning Path  
-
-I’m currently working through these certifications and courses:  
-
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)  
-
-- [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)  
-
-- [AWS Security Fundamentals](https://www.coursera.org/learn/aws-security-fundamentals)  
-
-- Fortinet NSE 1-4 (in progress)
-
-- CompTIA Security+ (in progress)
-
-- TryHackMe Certificates (in progress)
+🎓 Certifications in Progress
+- ✅ [Google Cybersecurity Certificate](https://www.coursera.org/) – Learning Linux, SIEM, and incident response (ETA: January 2026)
+- ✅ [IBM Cybersecurity Analyst](https://www.coursera.org/) – Studying threat intelligence and vulnerability management (ETA: January 2026)
+- ✅ [CompTIA Security+ SY0-701](https://www.comptia.org/) – Preparing for certification exam (ETA: January 2026)
+- ✅ TryHackMe Certificates (in progress)
 
 ---
 
@@ -33,92 +22,31 @@ I’m currently working through these certifications and courses:  
 ## 📚 What You’ll Find Here  
 
 - Summaries and notes from courses  
-
 - Scripts and hands-on labs I’m building  
-
 - Links to useful resources and tools  
-
 - Regular updates on my progress
 
 ---
 
 ## 📫 Connect with Me  
 
-- LinkedIn: [https://www.linkedin.com/in/nova-sentinel-n1010/]  
-
 - YouTube: [https://www.youtube.com/@NovaSntnl] 
-
 - TryHackMe: [https://tryhackme.com/p/nsentinel]
 
 ---
 
-##🛡️ Home Cybersecurity Hardening Project
+## 🧪 Hands-On Learning & Projects
 
-**By:** [Nova Sentinel]  
-**Role:** Cybersecurity Beginner – Blue Team Focused  
-**Status:** Completed June 2025
+### 🔐 Home Network Hardening
+- Changed router credentials to strong, unique passwords
+- Disabled remote admin and UPnP for enhanced security
+- Enabled WPA3 encryption and MAC address filtering
+- Isolated IoT devices on a dedicated guest network
+- Deployed Pi-hole DNS sinkhole to block ads and trackers
+- Scanned open ports using Nmap and Fing
+- Set up logging with custom DNS alerts via Pi-hole
 
----
+*Outcome*: Reduced attack surface and blocked 10,000+ trackers in first month.
 
-## 🎯 Objective
-
-To proactively secure my home network, personal devices, and digital identity using best practices in Blue Team defense.
-
----
-
-## 🔌 Router & Network Security
-
-- [x] Accessed and configured **router settings**
-- [x] Renamed SSID (removed default brand/network name)
-- [x] Set **strong Wi-Fi password**
-- [x] Confirmed WPA2 encryption (WPA3 unavailable)
-- [x] Disabled WPS (Wi-Fi Protected Setup)
-- [x] Disabled UPnP (Universal Plug and Play)
-- [x] Verified all ports stealth with [ShieldsUp!](https://www.grc.com/shieldsup)
-- [x] Passed GRC UPnP test — no remote exposure
-- [x] Audited all connected devices (renamed for tracking)
-- [x] Updated firmware on **TP-Link Wi-Fi extenders**
-- [x] Reviewed DHCP, LAN, OneMesh settings
-
----
-
-## 📱 Device-Level Security
-
-- [x] Renamed all Apple devices to anonymized names (e.g. SecureHub)
-- [x] Disabled Bluetooth discoverability
-- [x] Changed device names to remove real identifiers
-- [x] Installed **TotalAV** on all household devices
-- [x] Migrated family's emails from Gmail/Hotmail to ProtonMail
-- [x] Enabled firewalls + VPN across devices
-
----
-
-## 🔍 Network Monitoring & Tests
-
-- [x] Used **Fing App** to scan & label all devices
-- [x] Identified "Generic" unknowns via elimination
-- [x] Performed GRC ShieldsUp! test (all ports = stealth)
-- [x] Verified no rogue devices are connected
-
----
-
-## 🧠 Policy Awareness
-
-- [x] Aware of lateral movement risks from unsafe browsing
-- [x] Educated household members on secure practices
-- [x] Explored guest network isolation
-- [x] Planning to add second router for guest VLAN
-
----
-
-## 🧭 Next Steps
-
-- [ ] Publish results as a visual post on LinkedIn and Youtube
-- [ ] Continue training on TryHackMe Blue Team path
-- [ ] Build public portfolio on GitHub 
-- [ ] Prep for Fortinet NSE and Google Cybersecurity certs
-
----
-
-**#CyberSecurity #BlueTeam #HomeSecurity #NetworkHardening**
+_➡️ [Full details in `home-network.md`](./home-network.md)_
 
