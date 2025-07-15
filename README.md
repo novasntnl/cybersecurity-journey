@@ -15,7 +15,6 @@
 - ✅ [IBM Cybersecurity Analyst](https://www.coursera.org/) – Studying threat intelligence and vulnerability management (ETA: January 2026)
 - ✅ [CompTIA Security+ SY0-701](https://www.comptia.org/) – Preparing for certification exam (ETA: January 2026)
 - ✅ TryHackMe Certificates (in progress)
-- _➡️ [Progression charts in `progression-charts`](progression-charts)_
 
 ---
 
