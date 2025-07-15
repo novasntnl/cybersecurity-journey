@@ -48,6 +48,6 @@
 
 *Outcome*: Reduced attack surface and blocked 10,000+ trackers in first month.
 
-_➡️ [Full details in `cybersecurity-journey/home-network.md`](cybersecurity-journey/home-network.md)_
+_➡️ [Full details in `home-network.md`](.home-network.md)_
 
 
