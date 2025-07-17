@@ -11,7 +11,7 @@
 ---
 
 🎓 Certifications (including in progress)
-- [![ISC2 Candidate](https://images.credly.com/size/110x110/images/03397330-38d9-4c96-9e47-b8277a36c8d3/image.png)](https://www.credly.com/badges/3eaede4e-8241-48ea-ad62-400dacd77e2a/public_url) 
+- [![ISC2 Candidate](https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/3eaede4e-8241-48ea-ad62-400dacd77e2a/public_url)
 - ✅ [Google Cybersecurity Certificate](https://www.coursera.org/) – Learning Linux, SIEM, and incident response (ETA: January 2026)
 - ✅ [IBM Cybersecurity Analyst](https://www.coursera.org/) – Studying threat intelligence and vulnerability management (ETA: January 2026)
 - ✅ [CompTIA Security+ SY0-701](https://www.comptia.org/) – Preparing for certification exam (ETA: January 2026)
