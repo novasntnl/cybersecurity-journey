@@ -10,11 +10,13 @@
 
 ---
 
-🎓 Certifications in Progress
+🎓 Certifications (including in progress)
+- ISC2 Candidate 
 - ✅ [Google Cybersecurity Certificate](https://www.coursera.org/) – Learning Linux, SIEM, and incident response (ETA: January 2026)
 - ✅ [IBM Cybersecurity Analyst](https://www.coursera.org/) – Studying threat intelligence and vulnerability management (ETA: January 2026)
 - ✅ [CompTIA Security+ SY0-701](https://www.comptia.org/) – Preparing for certification exam (ETA: January 2026)
 - ✅ TryHackMe Certificates (in progress)
+- ➡️ [Find certificates in `certificates`](certificates)_
 
 ---
 
