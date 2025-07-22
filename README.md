@@ -10,7 +10,7 @@
 
 ---
 
-🎓 Certifications (click for Credly badge)
+🎓 Certifications & Accomplishments
 - [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/3eaede4e-8241-48ea-ad62-400dacd77e2a/public_url)
 - [![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/430435df-4a30-4e41-9ef2-4e6a530af2da/public_url)
 
@@ -18,6 +18,8 @@
 - (ISC)² Certified in Cybersecurity (CC) – ETA January 2026
 - Fortinet NSE 1–4 – ETA January 2026
 - TryHackMe Certificates (in progress)
+- Completed 27 hands-on labs and ranked 2nd in the Bronze League on Google Cloud Skills Boost as part of the Google Cybersecurity Professional Certificate.
+
 - ➡️ [Find certificates in `certificates`](certificates)_
 
 ---
