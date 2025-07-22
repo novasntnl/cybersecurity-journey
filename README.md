@@ -11,8 +11,8 @@
 ---
 
 🎓 Certifications (including in progress)
-- ✅  [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/3eaede4e-8241-48ea-ad62-400dacd77e2a/public_url)
-- ✅ [Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/6d47d754-b6f8-40c8-b213-a083eb74aef2/public_url)
+- [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/3eaede4e-8241-48ea-ad62-400dacd77e2a/public_url)
+- [Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/6d47d754-b6f8-40c8-b213-a083eb74aef2/public_url)
 - CompTIA Security+ (SY0-701) – ETA January 2026
 (ISC)² Certified in Cybersecurity (CC) – ETA January 2026
 Fortinet NSE 1–4 – ETA January 2026
