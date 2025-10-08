@@ -1,4 +1,4 @@
-# Nova Sentinel | Cybersecurity 
+# Kimberly Verbist | Cybersecurity 
 
 *** Practical Cybersecurity | Digital Safety Advocate | Empowering Your Online Privacy**
 
