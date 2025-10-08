@@ -40,7 +40,7 @@
 
 ---
 
-## 🧪 Hands-On Learning & Projects
+## 🧪 Projects, Tools and Guides
 
 ### 🛠️ Open-source tools 
 [Suspicious URL Detector 🛡️](https://github.com/novasntnl/suspicious-url-detector) — a Python tool to flag phishing-style URLs
