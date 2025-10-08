@@ -49,7 +49,7 @@
 Secured home network with strong router policies, IoT segmentation, DNS sinkholing via Pi-hole, and regular port scanning.
 Full details in [Home Network Hardening](https://github.com/novasntnl/Home-Network-Hardening)
 
-## ▶️ YouTube Cybersecurity Shorts
+### ▶️ YouTube Cybersecurity Shorts
 
 Check out some of my latest bite-sized cybersecurity tutorials and digital safety tips:
 [Scam Calls - Don't Fall For It](https://www.youtube.com/shorts/zdvIaie7_4k)
