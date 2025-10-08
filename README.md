@@ -11,8 +11,7 @@
 
 ## 📚 What You’ll Find Here  
 
-- Summaries and notes from courses  
-- Scripts and hands-on labs I’m building  
+- Scripts and hands-on labs and tools I’m building  
 - Links to useful resources and tools  
 - Regular updates on my progress
 
@@ -50,7 +49,7 @@
 
 ### 🔐 Home Network Hardening
 Secured home network with strong router policies, IoT segmentation, DNS sinkholing via Pi-hole, and regular port scanning.
-[Full details in `home-network`](home-network)_
+Full details in [Home Network Hardening](https://github.com/novasntnl/Home-Network-Hardening)
 
 ## ▶️ YouTube Cybersecurity Shorts
 
