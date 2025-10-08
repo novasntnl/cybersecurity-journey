@@ -38,6 +38,7 @@
 
 - YouTube: [https://www.youtube.com/@NovaSntnl] 
 - TryHackMe: [https://tryhackme.com/p/nsentinel]
+- Linkedin: [https://www.linkedin.com/in/kimberlyverbist/]
 
 ---
 
@@ -65,16 +66,6 @@ Check out some of my latest bite-sized cybersecurity tutorials and digital safet
 ### [Scam Calls - Don't Fall For It](https://www.youtube.com/shorts/zdvIaie7_4k)
 
 ### [How NOT To Get Hacked](https://www.youtube.com/shorts/jo1mJysPGkg)
-
-
-➡️ [Subscribe to Nova Sentinel on YouTube](https://www.youtube.com/@NovaSntnl) for more!
-
-
-## ▶️ Featured YouTube Videos for Cybersecurity Specialists
-
-### [Join Scammer Payback's Online Army](https://www.youtube.com/shorts/QI59mAx6alA)
-
-### [5 Ways to Outsmart a USB Hacker](https://www.youtube.com/shorts/mZGxuaeJhCQ)
 
 
 ➡️ [Subscribe to Nova Sentinel on YouTube](https://www.youtube.com/@NovaSntnl) for more!
