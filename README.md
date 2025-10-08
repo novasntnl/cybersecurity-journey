@@ -25,8 +25,10 @@
 - TryHackMe: [https://tryhackme.com/p/nsentinel]
 - Linkedin: [https://www.linkedin.com/in/kimberlyverbist/]
 
+---
 
-🎓 Certifications & Accomplishments
+
+## 🎓 Certifications & Accomplishments
 - [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/3eaede4e-8241-48ea-ad62-400dacd77e2a/public_url)
 - [![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/430435df-4a30-4e41-9ef2-4e6a530af2da/public_url)
 
