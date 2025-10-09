@@ -1,6 +1,5 @@
 # Kimberly Verbist | Cybersecurity 
 
-
 ## 📜 About Me
 - **Alias**: Nova Sentinel
 - **Location**: Undisclosed (remote-friendly)
@@ -23,9 +22,6 @@
 ![Multilingual](https://img.shields.io/badge/Multilingual-7A42F4?style=flat-square)
 
 
----
-
-
 ## 📚 What You’ll Find Here  
 
 - Scripts and hands-on labs and tools I’m building  
@@ -33,16 +29,11 @@
 - Regular updates on my progress
 
 
----
-
-
 ## 📫 Connect with Me  
 
 - YouTube: [https://www.youtube.com/@NovaSntnl] 
 - TryHackMe: [https://tryhackme.com/p/nsentinel]
 - Linkedin: [https://www.linkedin.com/in/kimberlyverbist/]
-
----
 
 
 ## 🎓 Certifications & Accomplishments
@@ -53,10 +44,6 @@
 ![ISC2 Certified in Cybersecurity (CC)](https://img.shields.io/badge/ISC2-CC-blue?style=flat-square)
 ![TryHackMe Certificates (in progress)](https://img.shields.io/badge/TryHackMe-In_Progress-orange?style=flat-square)
 ![Bronze League - Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Bronze_League-lightgrey?style=flat-square&logo=google&logoColor=white)
-
-
-
----
 
 
 ## 🧪 My Projects, Tools and Guides
