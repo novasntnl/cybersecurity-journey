@@ -46,13 +46,14 @@
 
 
 ## 🎓 Certifications & Accomplishments
-- ISC2 Candidate
-- Google Cybersecurity Professional Certificate V2
-- CompTIA Security+ (SY0-701) – ETA January 2026
-- (ISC)² Certified in Cybersecurity (CC) – ETA January 2026
-- Fortinet NSE 1–4 – ETA January 2026
-- TryHackMe Certificates (in progress)
-- Completed 27 hands-on labs and ranked 2nd in the Bronze League on Google Cloud Skills Boost as part of the Google Cybersecurity Professional Certificate.
+
+![ISC2 Candidate](https://img.shields.io/badge/ISC2-Candidate-blue?style=flat-square)
+![Google Cybersecurity Professional Certificate V2](https://img.shields.io/badge/Google-Cybersecurity_V2-yellow?style=flat-square&logo=google&logoColor=white)
+![CompTIA Security+ (SY0-701)](https://img.shields.io/badge/CompTIA-Security+-green?style=flat-square)
+![ISC2 Certified in Cybersecurity (CC)](https://img.shields.io/badge/ISC2-CC-blue?style=flat-square)
+![TryHackMe Certificates (in progress)](https://img.shields.io/badge/TryHackMe-In_Progress-orange?style=flat-square)
+![Bronze League - Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Bronze_League-lightgrey?style=flat-square&logo=google&logoColor=white)
+
 
 
 ---
