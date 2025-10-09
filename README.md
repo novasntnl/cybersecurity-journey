@@ -45,6 +45,10 @@
 ### 🛠️ Open-source tools 
 [Suspicious URL Detector 🛡️](https://github.com/novasntnl/suspicious-url-detector) — a Python tool to flag phishing-style URLs
 
+### ⭐ Featured Project: 50 AI Prompts for Cybersecurity
+This open-source collection shows how AI can safely and effectively support cybersecurity work, from phishing detection to log analysis and employee training. All prompts are privacy-safe and suitable for workplace or educational use.
+🔗 [View the repository](https://github.com/novasntnl/50-AI-Prompts-for-Cybersecurity)
+
 ### 🔐 Home Network Hardening
 Secured home network with strong router policies, IoT segmentation, DNS sinkholing via Pi-hole, and regular port scanning.
 Full details in [Home Network Hardening](https://github.com/novasntnl/Home-Network-Hardening)
