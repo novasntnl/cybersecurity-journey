@@ -1,3 +1,5 @@
+![Cybersecurity Banner](https://via.placeholder.com/1200x300?text=Cybersecurity+Portfolio)
+
 # Kimberly Verbist | Cybersecurity 
 
 
@@ -5,6 +7,13 @@
 - **Alias**: Nova Sentinel
 - **Location**: Undisclosed (remote-friendly)
 - **Interests**: Home network security, malware analysis, threat detection, analyzing and solving complex problems
+
+## 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=flat-square&logo=securityscorecard&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open--Source-4ABF4B?style=flat-square&logo=github&logoColor=white)
 
 ---
 
